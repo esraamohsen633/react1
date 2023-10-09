@@ -1,6 +1,6 @@
 import {Component}from"react";
 
-import Par from "./par/Par";
+import Par from "./component/par/Par";
 
 
 
@@ -12,7 +12,7 @@ class App extends Component {
    
     return(
    <div className="container">
-    <Par />
+    <Par/>
   
     </div>
  );
