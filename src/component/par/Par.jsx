@@ -71,51 +71,6 @@ id:10
         this.setState({"products":products})
     };
 
-//     addProduct =()=>{
-// const newproduct={name:"acer",
-// price:500,
-// model:"laptop",
-
-// };
-// const products=[...this.state.products];
-
-// products.push(newproduct);
-// this.setState({products});
-// localStorage.setItem("products",JSON.stringify("products"));
-//     }
-
-// componentDidMount(){
-//     let storeproduct=localStorage.getItem(products);
-//     if (storeproduct){
-//         this.setState({products:JSON.parse(storeproduct)});
-//     }
-// }
-// }
-    
-
-//     render(){
-//         return (
-//             <div className = "bg-danger p-4" >
-
-//                 <button>addproduct</button>
-
-//               <div class="row justify-content-center align-items-center g-2 container" >
-//               {this.state.products.map((product,index)=>{return <Child productDetail={product} key={index} index={index} updatePriceHandle={this.updatePrice}/>})}
-
-//               </div>  
-           
-       
-//          </div>
-       
-      
-             
-        
-//         );
-//     }
-
-
-// export default Par; 
-
 addProduct = () => {
         const newProduct = {
             name: "acer",
