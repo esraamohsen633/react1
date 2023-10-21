@@ -1,0 +1,18 @@
+.bg{
+    background-color:  #2c0047;
+   text-align: left;
+   justify-content: space-between;
+   padding: 10px;
+}
+.fontlink {
+    font-family: 'Hanalei Fill','Berkshire Swash', serif, cursive;
+  }
+  .nav-link :hover{
+    background-color: #f7ea66;
+  }
+ .active{
+    background-color: #6f42c1;
+ }
+ .link:hover{
+    background-color: #6f42c1;
+ }

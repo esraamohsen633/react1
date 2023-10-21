@@ -1,0 +1,11 @@
+.abo{
+ 
+
+background-image:  url('../../images/spider.png') ,url('../../images/sk.jpg');
+
+background-color: rgb(66, 28, 89);
+background-size: "auto","contain";
+background-repeat: "no-repeat";
+background-position: top left, right;
+height: 600px;
+}

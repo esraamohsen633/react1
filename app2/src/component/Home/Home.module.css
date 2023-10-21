@@ -1,0 +1,11 @@
+.cont{
+    background-color: #230139;
+    display: flex;
+    width: 100%;
+ }
+ .para{
+        text-align: center;
+
+        font-family: 'Hanalei Fill','Berkshire Swash', serif, cursive;
+      
+ }
